@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/learn-hub-demo/static/css/main.ea310e3a.css",
-    "main.js": "/learn-hub-demo/static/js/main.3ee9f7a7.js",
+    "main.js": "/learn-hub-demo/static/js/main.7e545fec.js",
     "static/media/Rectangle 77 (1).png": "/learn-hub-demo/static/media/Rectangle 77 (1).8250d302ec15bea1f98b.png",
     "static/media/Group 448.png": "/learn-hub-demo/static/media/Group 448.9c7887f941de12b33c47.png",
     "static/media/Group 447.png": "/learn-hub-demo/static/media/Group 447.3dfd0d9f605895d94c7c.png",
@@ -91,6 +91,6 @@
   },
   "entrypoints": [
     "static/css/main.ea310e3a.css",
-    "static/js/main.3ee9f7a7.js"
+    "static/js/main.7e545fec.js"
   ]
 }
