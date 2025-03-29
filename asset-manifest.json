@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/learn-hub-demo/static/css/main.989e06d3.css",
-    "main.js": "/learn-hub-demo/static/js/main.956a1c44.js",
+    "main.css": "/learn-hub-demo/static/css/main.ed05ed2f.css",
+    "main.js": "/learn-hub-demo/static/js/main.0542b956.js",
     "static/media/Rectangle 77 (1).png": "/learn-hub-demo/static/media/Rectangle 77 (1).8250d302ec15bea1f98b.png",
     "static/media/Group 448.png": "/learn-hub-demo/static/media/Group 448.9c7887f941de12b33c47.png",
     "static/media/Group 447.png": "/learn-hub-demo/static/media/Group 447.3dfd0d9f605895d94c7c.png",
@@ -90,7 +90,7 @@
     "static/media/arrow-right.svg": "/learn-hub-demo/static/media/arrow-right.b6796e28a2151681e4afe1e8e685892b.svg"
   },
   "entrypoints": [
-    "static/css/main.989e06d3.css",
-    "static/js/main.956a1c44.js"
+    "static/css/main.ed05ed2f.css",
+    "static/js/main.0542b956.js"
   ]
 }
