@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/learn-hub-demo/static/css/main.1c3b520e.css",
-    "main.js": "/learn-hub-demo/static/js/main.438bf412.js",
+    "main.css": "/learn-hub-demo/static/css/main.e6220998.css",
+    "main.js": "/learn-hub-demo/static/js/main.e8b2cae6.js",
     "static/media/Rectangle 77 (1).png": "/learn-hub-demo/static/media/Rectangle 77 (1).8250d302ec15bea1f98b.png",
     "static/media/Group 448.png": "/learn-hub-demo/static/media/Group 448.9c7887f941de12b33c47.png",
     "static/media/Group 447.png": "/learn-hub-demo/static/media/Group 447.3dfd0d9f605895d94c7c.png",
@@ -64,6 +64,7 @@
     "index.html": "/learn-hub-demo/index.html",
     "static/media/mark-que.svg": "/learn-hub-demo/static/media/mark-que.08a700d9385092ede99319e35c0b07c7.svg",
     "static/media/delete-trash-svgrepo-com.svg": "/learn-hub-demo/static/media/delete-trash-svgrepo-com.bd272f2153a0dd2a5f508f0651d243f5.svg",
+    "static/media/eye-icon.svg": "/learn-hub-demo/static/media/eye-icon.694cfa8af641683691ff295cbc4d29b5.svg",
     "static/media/add-organization.svg": "/learn-hub-demo/static/media/add-organization.2de645f9255de37584e55cdf18ff4722.svg",
     "static/media/report_icon.svg": "/learn-hub-demo/static/media/report_icon.7d2673c24756f022f66ac881ae7ea4ba.svg",
     "static/media/eye-cross.svg": "/learn-hub-demo/static/media/eye-cross.7abef1571d0879eb5d5dbb028cb7ccb5.svg",
@@ -75,6 +76,7 @@
     "static/media/upload_icon.svg": "/learn-hub-demo/static/media/upload_icon.3b70beffcd2e6b2d373933ef011d7e72.svg",
     "static/media/see-comments.svg": "/learn-hub-demo/static/media/see-comments.9d609555f7890ae94bb8ddef246dae0b.svg",
     "static/media/close-icon.svg": "/learn-hub-demo/static/media/close-icon.f7b6780f10081c3033bfd21d0daf6418.svg",
+    "static/media/search-icon.svg": "/learn-hub-demo/static/media/search-icon.92ea8c383b41fd88d440266e075d0f8a.svg",
     "static/media/desc.svg": "/learn-hub-demo/static/media/desc.6cc94dbc4dc5f32ecc9ed9e5c88466ee.svg",
     "static/media/studylist-status-blue.svg": "/learn-hub-demo/static/media/studylist-status-blue.950084530c77fc47480de7d2af73ecc4.svg",
     "static/media/studylist-status.svg": "/learn-hub-demo/static/media/studylist-status.43a04f7017b92ee96c1931802554ed1c.svg",
@@ -87,10 +89,11 @@
     "static/media/supercoin_icon.svg": "/learn-hub-demo/static/media/supercoin_icon.33567f8f792a774a5b491d0d2357503a.svg",
     "static/media/sort-icon-up.svg": "/learn-hub-demo/static/media/sort-icon-up.7339c9e4048ad582c833.svg",
     "static/media/eye-fill.svg": "/learn-hub-demo/static/media/eye-fill.7fd05d820f400fdda81292243862d2b9.svg",
-    "static/media/arrow-right.svg": "/learn-hub-demo/static/media/arrow-right.b6796e28a2151681e4afe1e8e685892b.svg"
+    "static/media/arrow-right.svg": "/learn-hub-demo/static/media/arrow-right.b6796e28a2151681e4afe1e8e685892b.svg",
+    "static/media/verticle-line-icon.svg": "/learn-hub-demo/static/media/verticle-line-icon.1b07065f1898b877211dcb5e50218ee4.svg"
   },
   "entrypoints": [
-    "static/css/main.1c3b520e.css",
-    "static/js/main.438bf412.js"
+    "static/css/main.e6220998.css",
+    "static/js/main.e8b2cae6.js"
   ]
 }
