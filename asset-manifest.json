@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/learn-hub-demo/static/css/main.08b087a8.css",
-    "main.js": "/learn-hub-demo/static/js/main.110d42e1.js",
+    "main.css": "/learn-hub-demo/static/css/main.7ce6c145.css",
+    "main.js": "/learn-hub-demo/static/js/main.ed01f2ac.js",
     "static/media/autoslide4.png": "/learn-hub-demo/static/media/autoslide4.7c25d59651b6942d438e.png",
     "static/media/Rectangle 77 (1).png": "/learn-hub-demo/static/media/Rectangle 77 (1).8250d302ec15bea1f98b.png",
     "static/media/autoslide1.png": "/learn-hub-demo/static/media/autoslide1.58665b3fd96a19f4e05e.png",
@@ -57,10 +57,13 @@
     "static/media/liquid-cheese.png": "/learn-hub-demo/static/media/liquid-cheese.298024259c783f11a64b.png",
     "static/media/uni4.png": "/learn-hub-demo/static/media/uni4.cf279e9d71353a739f2d.png",
     "static/media/send-img1.png": "/learn-hub-demo/static/media/send-img1.58c1647443d5f8a38d86.png",
+    "static/media/new3.png": "/learn-hub-demo/static/media/new3.1b6e335813666df0f885.png",
     "static/media/tick.png": "/learn-hub-demo/static/media/tick.b646d474186915e9e944.png",
+    "static/media/news2.png": "/learn-hub-demo/static/media/news2.49c387d645aaa2bf368a.png",
     "static/media/Rectangle 95.png": "/learn-hub-demo/static/media/Rectangle 95.8e89004a76e6f8a79996.png",
     "static/media/uni5.png": "/learn-hub-demo/static/media/uni5.b1f3945764cf82d45e25.png",
     "static/media/uni3.png": "/learn-hub-demo/static/media/uni3.59bc316bb3ff770fb9aa.png",
+    "static/media/news1.png": "/learn-hub-demo/static/media/news1.afb2d1e63ab47a50252c.png",
     "static/media/send-img2.png": "/learn-hub-demo/static/media/send-img2.53fd0412e4dd0252a84e.png",
     "static/media/image.png": "/learn-hub-demo/static/media/image.d10192fe7015979e1449.png",
     "static/media/profile-img3.png": "/learn-hub-demo/static/media/profile-img3.933dfbfbe913f3f46df9.png",
@@ -95,6 +98,7 @@
     "static/media/upload-file.svg": "/learn-hub-demo/static/media/upload-file.16c82d7224243d232721741b6be14567.svg",
     "static/media/pages.svg": "/learn-hub-demo/static/media/pages.9e57c90a92a3aeba8f53340d52b11112.svg",
     "static/media/bag.svg": "/learn-hub-demo/static/media/bag.d40f0d5b30e0e1741ff044fe35855a1b.svg",
+    "static/media/location.svg": "/learn-hub-demo/static/media/location.748b47792b7f47f7fbdc20205d10b078.svg",
     "static/media/Accommodation.svg": "/learn-hub-demo/static/media/Accommodation.0b91bf3cea51f6c7d45e129de69965cf.svg",
     "static/media/created_on.svg": "/learn-hub-demo/static/media/created_on.76e624cd064e2fbdab01fdc7f9b74b0b.svg",
     "static/media/search.svg": "/learn-hub-demo/static/media/search.c1c1251601d18448a039c694445402c5.svg",
@@ -114,6 +118,7 @@
     "static/media/report.svg": "/learn-hub-demo/static/media/report.4e55ae3c3779c0c0cfc65fd3fd166119.svg",
     "static/media/showpdf-eye.svg": "/learn-hub-demo/static/media/showpdf-eye.bb9e7c280d825d4376841cf54188f606.svg",
     "static/media/sort-icon.svg": "/learn-hub-demo/static/media/sort-icon.11e09f4e1f7b92b072a6.svg",
+    "static/media/News.svg": "/learn-hub-demo/static/media/News.790fd9a9a11c65d832cf9f1ca4a4a19a.svg",
     "static/media/spinner.svg": "/learn-hub-demo/static/media/spinner.6a69240e9374c6e032123a4e65a41f95.svg",
     "static/media/cap.svg": "/learn-hub-demo/static/media/cap.e7e1d19e35f8e71626122bc60d8b039a.svg",
     "static/media/model_close.svg": "/learn-hub-demo/static/media/model_close.74a1c2e9f042996493209446953684fc.svg",
@@ -127,7 +132,7 @@
     "static/media/send.svg": "/learn-hub-demo/static/media/send.e6793c540e75f497bb603167139281b2.svg"
   },
   "entrypoints": [
-    "static/css/main.08b087a8.css",
-    "static/js/main.110d42e1.js"
+    "static/css/main.7ce6c145.css",
+    "static/js/main.ed01f2ac.js"
   ]
 }
