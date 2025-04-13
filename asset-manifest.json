@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/learn-hub-demo/static/css/main.f3750f65.css",
-    "main.js": "/learn-hub-demo/static/js/main.f8fdda90.js",
+    "main.css": "/learn-hub-demo/static/css/main.08b087a8.css",
+    "main.js": "/learn-hub-demo/static/js/main.110d42e1.js",
     "static/media/autoslide4.png": "/learn-hub-demo/static/media/autoslide4.7c25d59651b6942d438e.png",
     "static/media/Rectangle 77 (1).png": "/learn-hub-demo/static/media/Rectangle 77 (1).8250d302ec15bea1f98b.png",
     "static/media/autoslide1.png": "/learn-hub-demo/static/media/autoslide1.58665b3fd96a19f4e05e.png",
@@ -92,6 +92,7 @@
     "static/media/add-organization.svg": "/learn-hub-demo/static/media/add-organization.2de645f9255de37584e55cdf18ff4722.svg",
     "static/media/report_icon.svg": "/learn-hub-demo/static/media/report_icon.7d2673c24756f022f66ac881ae7ea4ba.svg",
     "static/media/eye-cross.svg": "/learn-hub-demo/static/media/eye-cross.7abef1571d0879eb5d5dbb028cb7ccb5.svg",
+    "static/media/upload-file.svg": "/learn-hub-demo/static/media/upload-file.16c82d7224243d232721741b6be14567.svg",
     "static/media/pages.svg": "/learn-hub-demo/static/media/pages.9e57c90a92a3aeba8f53340d52b11112.svg",
     "static/media/bag.svg": "/learn-hub-demo/static/media/bag.d40f0d5b30e0e1741ff044fe35855a1b.svg",
     "static/media/Accommodation.svg": "/learn-hub-demo/static/media/Accommodation.0b91bf3cea51f6c7d45e129de69965cf.svg",
@@ -126,7 +127,7 @@
     "static/media/send.svg": "/learn-hub-demo/static/media/send.e6793c540e75f497bb603167139281b2.svg"
   },
   "entrypoints": [
-    "static/css/main.f3750f65.css",
-    "static/js/main.f8fdda90.js"
+    "static/css/main.08b087a8.css",
+    "static/js/main.110d42e1.js"
   ]
 }
